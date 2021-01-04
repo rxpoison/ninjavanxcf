@@ -1,66 +1,69 @@
 {
-    "service_type": "Marketplace",
-    "marketplace": {
-        "seller_id" : 2,
-        "seller_company_name" : "cf manager"
-    },
-    "service_level": "Nextday",
-  
-    "reference": {
-      "merchant_order_number": "CF-1234-56100"
-    },
-    "from": {
-      "name": "John Doe",
-      "phone_number": "+66912345678",
-      "email": "john.doe@gmail.com",
-      "address": {
-        "address1": "123/456 Testor Tower",
-        "address2": "-",
-        "sub_district": "บางรัก",
-        "district": "บางรัก",
-        "province": "กรุงเทพมหานคร",
-        "country": "TH",
-        "postcode": "10600"
-      }
-    },
-    "to": {
-      "name": "Jane Doe",
-      "phone_number": "+6698765432",
-      "email": "jane.doe@gmail.com",
-      "address": {
-        "address1": "456/789 Testor Tower",
-        "address2": "-",
-        "sub_district": "บางรัก",
-        "district": "บางรัก",
-        "province": "กรุงเทพมหานคร",
-        "country": "TH",
-        "postcode": "10600"
-      }
-    },
-    "parcel_job": {
-      "is_pickup_required": true,
-      "pickup_service_type": "Scheduled",
-      "pickup_service_level": "Nextday",
-      "pickup_date": "2020-12-30T00:00:00.000Z",
-      "pickup_timeslot": {
-        "start_time": "09:00",
-        "end_time": "12:00",
-        "timezone": "Asia/Bangkok"
-      },
-      "pickup_instructions": "Pickup with care!",
-      "delivery_instructions": "If recipient is not around, leave parcel in power riser.",
-      "delivery_start_date": "2021-01-05",
-      "delivery_timeslot": {
-        "start_time": "09:00",
-        "end_time": "22:00",
-        "timezone": "Asia/Bangkok"
-      },
-      "items": [
-        {
-          "item_description": "item description 1",
-          "quantity": 1,
-          "is_dangerous_good": false
-        }
-      ]
+  "service_type": "Marketplace",
+  "service_level": "Nextday",
+  "reference": {
+    "merchant_order_number": "SO2012221568-14"
+  },
+
+  "marketplace": {
+    "seller_id": "2",
+    "seller_company_name": "CF manager"
+  },
+  "from": {
+    "name": "CF manager",
+    "phone_number": "0123456789",
+    "email": "",
+    "address": {
+      "address1": "123 ถนน ลาดพร้าว วังทองหลาง กรุงเทพฯ",
+      "province": "กรุงเทพมหานคร",
+      "country": "TH",
+      "district": "เขตพระนคร",
+      "postcode": "10200"
     }
+  },
+
+  "to": {
+    "name": "เดฟ",
+    "phone_number": "0912345678",
+    "email": "",
+    "address": {
+      "address1": "128/155 ถนนพหลโยธิน ต.อนุสาวรีย์",
+      "province": "กรุงเทพมหานคร",
+      "country": "TH",
+      "district": "เขตบางเขน",
+      "postcode": "10220"
+    }
+  },
+  "parcel_job": {
+    "is_pickup_required": "true",
+    "pickup_address": {
+      "name": "Live_comment_full",
+      "phone_number": "0123456789",
+      "email": "",
+      "address": {
+        "postcode": "10200",
+        "address1": "911 ถนน ลาดพร้าว 94 วังทองหลาง กรุงเทพฯ",
+        "country": "TH"
+      }
+    },
+    "pickup_service_type": "Scheduled",
+    "pickup_service_level": "Standard",
+    "pickup_date": "2021-01-04",
+    "pickup_timeslot": {
+      "start_time": "15:00",
+      "end_time": "18:00",
+      "timezone": "Asia/Bangkok"
+    },
+    "delivery_start_date": "2021-01-05",
+    "delivery_timeslot": {
+      "start_time": "09:00",
+      "end_time": "22:00",
+      "timezone": "Asia/Bangkok"
+    },
+    "dimensions": {
+      "size": "S"
+    }
+
   }
+
+}
