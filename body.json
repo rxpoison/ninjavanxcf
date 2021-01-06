@@ -66,4 +66,142 @@
             "weight": 1.0
         }
     }
+},
+{
+    "tracking_number": "CFMAN796220522828800000",
+    "service_type": "Marketplace",
+    "service_level": "NEXTDAY",
+    "reference": {
+        "merchant_order_number": "CF20210002TH"
+    },
+    "from": {
+        "name": "CF Manager",
+        "phone_number": "0973656241",
+        "email": "",
+        "address": {
+            "address1": "4 ซอย 44 แขวง คลองกุ่ม กรุงเทพมหานคร",
+            "address2": " , บึงกุ่ม , กรุงเทพมหานคร",
+            "country": "TH",
+            "province": "กรุงเทพมหานคร",
+            "district": "บึงกุ่ม",
+            "postcode": "10230"
+        }
+    },
+    "to": {
+        "name": "สมหมาย สนใจ",
+        "phone_number": "0912345678",
+        "email": "rxpoison.ct@gmail.com",
+        "address": {
+            "address1": "1/9 59 ถ. ลำลูกกา ตำบล ลาดสวาย อำเภอลำลูกกา ปทุมธานี 12150",
+            "address2": " , ลำลูกกา , ปทุมธานี",
+            "country": "TH",
+            "province": "ปทุมธานี",
+            "district": "ลำลูกกา",
+            "postcode": "12150"
+        }
+    },
+    "marketplace": {
+        "seller_id": "2"
+    },
+    "parcel_job": {
+        "is_pickup_required": true,
+        "pickup_service_type": "Scheduled",
+        "pickup_service_level": "Standard",
+        "pickup_address": {
+            "name": "CF Manager",
+            "phone_number": "0973656241",
+            "email": "",
+            "address": {
+                "address1": "4 ซอย 44 แขวง คลองกุ่ม กรุงเทพมหานคร",
+                "country": "TH",
+                "postcode": "10230"
+            }
+        },
+        "pickup_date": "2021-01-06",
+        "pickup_timeslot": {
+            "start_time": "15:00",
+            "end_time": "18:00",
+            "timezone": "Asia/Bangkok"
+        },
+        "pickup_approximate_volume": "Less than 3 Parcels",
+        "delivery_start_date": "2021-01-07",
+        "delivery_timeslot": {
+            "start_time": "09:00",
+            "end_time": "22:00",
+            "timezone": "Asia/Bangkok"
+        },
+        "allow_weekend_delivery": true,
+        "dimensions": {
+            "weight": 1.0
+        }
+    }
+},
+{
+    "tracking_number": "CFMAN796223063008710656",
+    "service_type": "Marketplace",
+    "service_level": "NEXTDAY",
+    "reference": {
+        "merchant_order_number": "CF20210002TH"
+    },
+    "from": {
+        "name": "CF Manager",
+        "phone_number": "0973656241",
+        "email": "",
+        "address": {
+            "address1": "4 ซอย 44 แขวง คลองกุ่ม กรุงเทพมหานคร",
+            "address2": " , บึงกุ่ม , กรุงเทพมหานคร",
+            "country": "TH",
+            "province": "กรุงเทพมหานคร",
+            "district": "บึงกุ่ม",
+            "postcode": "10230"
+        }
+    },
+    "to": {
+        "name": "ชนาธิป ทองมนต์",
+        "phone_number": "0918636554",
+        "email": "rxpoison2.ct@gmail.com",
+        "address": {
+            "address1": "95 หมู่ 24 ต.ศิลา อ.เมือง จ.ขอนแก่น 40000",
+            "address2": " , เมือง , ขอนแก่น",
+            "country": "TH",
+            "province": "ขอนแก่น",
+            "district": "เมือง",
+            "postcode": "40000"
+        }
+    },
+    "marketplace": {
+        "seller_id": "2"
+    },
+    "parcel_job": {
+        "is_pickup_required": true,
+        "pickup_service_type": "Scheduled",
+        "pickup_service_level": "Standard",
+        "pickup_address": {
+            "name": "CF Manager",
+            "phone_number": "0973656241",
+            "email": "",
+            "address": {
+                "address1": "4 ซอย 44 แขวง คลองกุ่ม กรุงเทพมหานคร",
+                "country": "TH",
+                "postcode": "10230"
+            }
+        },
+        "pickup_date": "2021-01-06",
+        "pickup_timeslot": {
+            "start_time": "15:00",
+            "end_time": "18:00",
+            "timezone": "Asia/Bangkok"
+        },
+        "pickup_approximate_volume": "Less than 3 Parcels",
+        "delivery_start_date": "2021-01-08",
+        "delivery_timeslot": {
+            "start_time": "09:00",
+            "end_time": "22:00",
+            "timezone": "Asia/Bangkok"
+        },
+        "allow_weekend_delivery": true,
+        "dimensions": {
+            "weight": 1.0
+        }
+    }
 }
