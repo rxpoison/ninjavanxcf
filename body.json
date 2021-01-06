@@ -2,47 +2,45 @@
     "service_type": "Marketplace",
     "service_level": "Nextday",
     "reference": {
-        "merchant_order_number": "CF20210002TH"
+        "merchant_order_number": "CF2021TH0002"
     },
-
     "marketplace": {
         "seller_id": "2",
-        "seller_company_name": "CF Manager"
+        "seller_company_name": "ฮักหมาเพ็ทช็อป"
     },
     "from": {
-        "name": "CF Manager",
-        "phone_number": "0973656241",
+        "name": "ฮักหมาเพ็ทช็อป",
+        "phone_number": "0815652237",
         "email": "",
         "address": {
-            "address1": "4 ซอย 44 แขวง คลองกุ่ม กรุงเทพมหานคร",
+            "address1": "ซอย สายไหม 47 แขวง สายไหม เขตสายไหม กรุงเทพมหานคร 10220",
             "province": "กรุงเทพมหานคร",
             "country": "TH",
-            "district": "บึงกุ่ม",
-            "postcode": "10230"
+            "district": "สายไหม",
+            "postcode": "10220"
         }
     },
-
     "to": {
-        "name": "ชนาธิป ทองมนต์",
-        "phone_number": "0918636554",
-        "email": "rxpoison2.ct@gmail.com",
+        "name": "สมหมาย หมายปอง",
+        "phone_number": "0975541358",
+        "email": "sommaiii1980@gmail.com",
         "address": {
-            "address1": "95 หมู่ 24 ต.ศิลา อ.เมือง จ.ขอนแก่น 40000",
-            "province": "ขอนแก่น",
+            "address1": "20/5 ซอยจตุโชติ 4 ถนนจตุโชติ แขวง ออเงิน เขตสายไหม กรุงเทพมหานคร 10220",
+            "province": "กรุงเทพมหานคร",
             "country": "TH",
-            "district": "เมือง",
-            "postcode": "40000"
+            "district": "สายไหม",
+            "postcode": "10220"
         }
     },
     "parcel_job": {
         "is_pickup_required": "true",
         "pickup_address": {
-            "name": "CF Manager",
-            "phone_number": "0973656241",
+            "name": "ฮักหมาเพ็ทช็อป",
+            "phone_number": "0815652237",
             "email": "",
             "address": {
-                "postcode": "10230",
-                "address1": "4 ซอย 44 แขวง คลองกุ่ม กรุงเทพมหานคร",
+                "postcode": "10220",
+                "address1": "20/5 ซอย สายไหม 47 แขวง สายไหม เขตสายไหม กรุงเทพมหานคร 10220",
                 "country": "TH"
             }
         },
@@ -54,7 +52,7 @@
             "end_time": "18:00",
             "timezone": "Asia/Bangkok"
         },
-        "delivery_start_date": "2021-01-08",
+        "delivery_start_date": "2021-01-07",
         "delivery_timeslot": {
             "start_time": "09:00",
             "end_time": "22:00",
@@ -64,51 +62,50 @@
             "weight": "1"
         }
     }
+
 }, {
     "service_type": "Marketplace",
     "service_level": "Nextday",
     "reference": {
-        "merchant_order_number": "CF20210003TH"
+        "merchant_order_number": "CF2021TH0003"
     },
-
     "marketplace": {
-        "seller_id": "2",
-        "seller_company_name": "CF Manager"
+        "seller_id": "3",
+        "seller_company_name": "SunnyCoolStuff ร้านเสื้อผ้าสไตล์ญี่ปุ่น"
     },
     "from": {
-        "name": "CF Manager",
-        "phone_number": "0973656241",
+        "name": "SunnyCoolStuff ร้านเสื้อผ้าสไตล์ญี่ปุ่น",
+        "phone_number": "0815652237",
         "email": "",
         "address": {
-            "address1": "4 ซอย 44 แขวง คลองกุ่ม กรุงเทพมหานคร",
-            "province": "กรุงเทพมหานคร",
+            "address1": "393/5 ถ.สาครธนากร ต.ลำพยา เมือง นครปฐม 73000",
+            "province": "นครปฐม",
             "country": "TH",
-            "district": "บึงกุ่ม",
-            "postcode": "10230"
+            "district": "เมืองนครปฐม",
+            "postcode": "73000"
         }
     },
-
     "to": {
-        "name": "ชนาธิป ทองมนต์",
-        "phone_number": "0918636554",
-        "email": "rxpoison2.ct@gmail.com",
+        "name": "สมหมาย หมายปอง",
+        "phone_number": "0975541358",
+        "email": "sommaiii1980@gmail.com",
         "address": {
-            "address1": "488/6 ถ.มิตรภาพ ต.ศิลา อ.เมือง จ.ขอนแก่น 40000",
-            "province": "ขอนแก่น",
+            "address1": "20/5 ซอยจตุโชติ 4 ถนนจตุโชติ แขวง ออเงิน เขตสายไหม กรุงเทพมหานคร 10220",
+            "province": "กรุงเทพมหานคร",
             "country": "TH",
-            "district": "เมือง",
-            "postcode": "40000"
+            "district": "สายไหม",
+            "postcode": "10220"
         }
     },
     "parcel_job": {
         "is_pickup_required": "true",
         "pickup_address": {
-            "name": "CF Manager",
-            "phone_number": "0973656241",
+            "name": "SunnyCoolStuff ร้านเสื้อผ้าสไตล์ญี่ปุ่น",
+            "phone_number": "0815652237",
             "email": "",
             "address": {
-                "postcode": "10230",
-                "address1": "4 ซอย 44 แขวง คลองกุ่ม กรุงเทพมหานคร",
+                "postcode": "73000",
+                "address1": "393/5 ถ.สาครธนากร ต.ลำพยา เมือง นครปฐม 73000",
                 "country": "TH"
             }
         },
@@ -120,7 +117,7 @@
             "end_time": "18:00",
             "timezone": "Asia/Bangkok"
         },
-        "delivery_start_date": "2021-01-08",
+        "delivery_start_date": "2021-01-07",
         "delivery_timeslot": {
             "start_time": "09:00",
             "end_time": "22:00",
@@ -129,54 +126,51 @@
         "dimensions": {
             "weight": "1"
         }
-
     }
 
 }, {
     "service_type": "Marketplace",
     "service_level": "Nextday",
     "reference": {
-        "merchant_order_number": "CF20210004TH"
+        "merchant_order_number": "CF2021TH0004"
     },
-
     "marketplace": {
-        "seller_id": "2",
-        "seller_company_name": "CF Manager"
+        "seller_id": "4",
+        "seller_company_name": "แชมป์ แอนด์ เชน"
     },
     "from": {
-        "name": "CF Manager",
-        "phone_number": "0973656241",
+        "name": "แชมป์ แอนด์ เชน",
+        "phone_number": "0894221846",
         "email": "",
         "address": {
-            "address1": "4 ซอย 44 แขวง คลองกุ่ม กรุงเทพมหานคร",
-            "province": "กรุงเทพมหานคร",
+            "address1": "488/6 ถ.มิตรภาพ ต.ศิลา อ.เมืองขอนแก่น จ.ขอนแก่น 40000",
+            "province": "ขอนแก่น",
             "country": "TH",
-            "district": "บึงกุ่ม",
-            "postcode": "10230"
+            "district": "เมืองขอนแก่น",
+            "postcode": "40000"
         }
     },
-
     "to": {
         "name": "ชนาธิป ทองมนต์",
         "phone_number": "0918636554",
-        "email": "rxpoison2.ct@gmail.com",
+        "email": "rxpoison.ct@gmail.com",
         "address": {
             "address1": "1/9 59 ถ. ลำลูกกา ตำบล ลาดสวาย อำเภอลำลูกกา ปทุมธานี 12150",
             "province": "ปทุมธานี",
             "country": "TH",
-            "district": "อำเภอลำลูกกา",
+            "district": "ลำลูกกา",
             "postcode": "12150"
         }
     },
     "parcel_job": {
         "is_pickup_required": "true",
         "pickup_address": {
-            "name": "CF Manager",
-            "phone_number": "0973656241",
+            "name": "แชมป์ แอนด์ เชน",
+            "phone_number": "0894221846",
             "email": "",
             "address": {
-                "postcode": "10230",
-                "address1": "4 ซอย 44 แขวง คลองกุ่ม กรุงเทพมหานคร",
+                "postcode": "40000",
+                "address1": "488/6 ถ.มิตรภาพ ต.ศิลา อ.เมืองขอนแก่น จ.ขอนแก่น 40000",
                 "country": "TH"
             }
         },
@@ -188,7 +182,7 @@
             "end_time": "18:00",
             "timezone": "Asia/Bangkok"
         },
-        "delivery_start_date": "2021-01-08",
+        "delivery_start_date": "2021-01-07",
         "delivery_timeslot": {
             "start_time": "09:00",
             "end_time": "22:00",
@@ -197,7 +191,6 @@
         "dimensions": {
             "weight": "1"
         }
-
     }
 
 }]
